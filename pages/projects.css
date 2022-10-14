@@ -57,6 +57,31 @@
     font-size: 20px;
   
   }
+
+  a:link{
+
+    color: orange;
+  }
+
+  a:visited{
+
+    color: red;
+  }
+
+  a:not{
+
+    color: red;
+  }
+
+  a:hover{
+
+    color: red;
+  }
+
+  a:active{
+
+    color: red;
+  }
   
   .nav-links {
   
